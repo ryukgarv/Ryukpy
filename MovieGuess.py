@@ -4,7 +4,6 @@ import random
 
 # Initialize Pygame
 pygame.init()
-
 # Constants
 WIDTH, HEIGHT = 800, 600
 BACKGROUND_COLOR = (255, 255, 255)
